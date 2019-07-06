@@ -1,0 +1,14 @@
+E:\Argon Server\ArgonServer\ArgonServer\bin\Debug\ArgonServer.exe.config
+E:\Argon Server\ArgonServer\ArgonServer\bin\Debug\ArgonServer.exe
+E:\Argon Server\ArgonServer\ArgonServer\bin\Debug\ArgonServer.pdb
+E:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.csprojResolveAssemblyReference.cache
+E:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.csproj.CoreCompileInputs.cache
+E:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.exe
+E:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.pdb
+F:\Argon Server\ArgonServer\ArgonServer\bin\Debug\ArgonServer.exe.config
+F:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.exe
+F:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.pdb
+F:\Argon Server\ArgonServer\ArgonServer\bin\Debug\ArgonServer.exe
+F:\Argon Server\ArgonServer\ArgonServer\bin\Debug\ArgonServer.pdb
+F:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.csproj.CoreCompileInputs.cache
+F:\Argon Server\ArgonServer\ArgonServer\obj\Debug\ArgonServer.csprojAssemblyReference.cache
